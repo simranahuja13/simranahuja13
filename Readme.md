@@ -1,3 +1,4 @@
+![logo](https://github.com/simranahuja13/simranahuja13/blob/main/frotend%20engineer.png)
 <h1 align="center">Hi 👋, I'm Simran Ahuja</h1>
 <h3 align="center">A passionate Frontend Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47sqm60rcb6zz6shc22xiqvgllqijswll56s03cbt9&ep=v1_gifs_search&rid=200w.webp&ct=g">
